@@ -46,7 +46,7 @@ class MainActivity2 : AppCompatActivity(),View.OnClickListener{
     }
 
     override fun onClick(p0: View?) {
-        val intent= Intent(this@MainActivity2,MainActivity3::class.java)
+val intent=Intent(this@MainActivity2,MainActivity3::class.java)
         startActivity(intent)
     }
 }

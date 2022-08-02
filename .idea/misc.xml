@@ -5,8 +5,13 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.10740740740740741" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.17552083333333332" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.17552083333333332" />
         <entry key="app/src/main/res/layout/finallayout.xml" value="0.17447916666666666" />
         <entry key="app/src/main/res/layout/photoslayout.xml" value="0.17552083333333332" />
+        <entry key="app/src/main/res/layout/userslayout.xml" value="0.17447916666666666" />
+        <entry key="app/src/main/res/menu/bottomnavigation.xml" value="0.17447916666666666" />
       </map>
     </option>
   </component>
